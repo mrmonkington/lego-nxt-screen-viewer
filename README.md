@@ -1,6 +1,6 @@
 # NXT Screen Mirror for Linux
 
-This is a simple way to mirror the screen on an old Lego mindstorms NXT brick - ideal if the screen on yours is broken (very common!)
+This is a simple way to mirror the screen on an old Lego mindstorms NXT brick - ideal if the screen on yours is broken (very common as these things are ancient now!)
 
 Updates @ 4fps.
 
