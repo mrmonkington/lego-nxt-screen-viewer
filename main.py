@@ -91,12 +91,3 @@ if __name__ == "__main__":
     init()
     Gtk.main()
 
-
-
-# Get filename from command line.
-#parser = OptionParser (usage = "usage: %prog [options] image_file")
-#(options, args) = parser.parse_args ()
-#if len (args) != 1:
-#    parser.error ("no image filename provided")
-#filename = args[0]
-
