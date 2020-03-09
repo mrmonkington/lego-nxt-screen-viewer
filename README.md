@@ -2,7 +2,7 @@
 
 This is a simple way to mirror the screen on an old Lego mindstorms NXT brick - ideal if the screen on yours is broken (very common as these things are ancient now!)
 
-![image](https://user-images.githubusercontent.com/778856/76262590-a9934f80-6254-11ea-8358-8dccfda6ff05.png)
+![image](https://user-images.githubusercontent.com/778856/76262655-de9fa200-6254-11ea-968f-7b35f77c1434.png)
 
 Updates @ 4fps.
 
